@@ -1,0 +1,44 @@
+[
+    {
+      "author" : "Pixel perfect",
+      "title" : "Windows",
+      "author_url" : "https://www.flaticon.com/authors/pixel-perfect",
+      "image" : "https://image.flaticon.com/icons/svg/888/888882.svg"
+    },
+    {
+      "author" : "Alpine Digital",
+      "title" : "Alpine Digital",
+      "author_url" : "https://www.alpinedigital.com",
+      "image" : "https://www.alpinedigital.be/assets/img/logo.svg"
+    },
+    {
+      "author" : "Freepik",
+      "title" : "Facebook",
+      "author_url" : "https://www.flaticon.com/authors/freepik",
+      "image" : "https://image.flaticon.com/icons/svg/124/124010.svg"
+    },
+    {
+      "author" : "Freepik",
+      "title" : "Google",
+      "author_url" : "https://www.flaticon.com/authors/freepik",
+      "image" : "https://image.flaticon.com/icons/svg/2702/2702602.svg"
+    },
+    {
+      "author" : "Freepik",
+      "title" : "Vine",
+      "author_url" : "https://www.flaticon.com/authors/freepik",
+      "image" : "https://image.flaticon.com/icons/svg/124/124020.svg"
+    },
+    {
+      "author" : "Freepik",
+      "title" : "Whatsapp",
+      "author_url" : "https://www.flaticon.com/authors/freepik",
+      "image" : "https://image.flaticon.com/icons/svg/124/124034.svg"
+    },
+    {
+      "author" : "Freepik",
+      "title" : "LinkedIn",
+      "author_url" : "https://www.flaticon.com/authors/freepik",
+      "image" : "https://image.flaticon.com/icons/svg/124/124011.svg"
+    }
+]
